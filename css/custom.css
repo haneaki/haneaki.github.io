@@ -1,0 +1,4 @@
+body.post {
+    background: url('<%= url_for("/img/welcome_ushio.jpg") %>') no-repeat center center fixed;
+    background-size: cover;
+}
